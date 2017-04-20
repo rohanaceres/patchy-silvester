@@ -6,7 +6,7 @@ namespace Silvester
     {
         public static void BeGood()
         {
-            Console.WriteLine("Being good...");
+            Console.WriteLine("Not breaking anything...");
         }
     }
 }
